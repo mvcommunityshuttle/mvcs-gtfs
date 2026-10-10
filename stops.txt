@@ -1,4 +1,5 @@
 stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,level_id,platform_code
+9658,9658,Castro/High School Way,Castro Hi Skool Way,Southbound,37.3870533563023,-122.083289996677,,,0,,,1,,
 9657,9657,Whisman/Middlefield (SB),Whisman Middle-field Southbound,Southbound,37.3966941198784,-122.059886278309,,,0,,,1,,
 9656,9656,Whisman/Middlefield (NB),Whisman Middle-field Northbound,Northbound,37.3966698642579,-122.059696095817,,,0,,,1,,
 9655,9655,Whisman/Dana (NB),Whisman Dana Northbound,Northbound,37.3865667998563,-122.064175348804,,,0,,,1,,
@@ -11,9 +12,8 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 9648,9648,Villa/Franklin (WB),Vilah Franklin Westbound,Westbound,37.3948531013741,-122.081395248953,,,0,,,1,,
 9647,9647,Sylvan Park (SB),Sylvan Park Southbound,Southbound,37.3819971089972,-122.061760223545,,,0,,,1,,
 9646,9646,Sylvan Park (NB),Sylvan Park Northbound,Northbound,37.3828403657513,-122.061307481563,,,0,,,1,,
-9645,9645,Shoreline/Pear,,Weekend service only,37.4151345362921,-122.078257326389,,,0,,,1,,
 9644,9644,Shoreline/Middlefield #3 (EB),Shoreline Middle-field Number Three Eastbound,Eastbound,37.4058039644061,-122.077619540257,,,0,,,1,,
-9643,9643,Shoreline/Middlefield #2,Shoreline Middle-field Number Two,weekend service only,37.4068305049069,-122.077976557043,,,0,,,1,,
+9643,9643,Shoreline/Middlefield #2,Shoreline Middle-field Number Two,Weekend service only,37.4068305049069,-122.077976557043,,,0,,,1,,
 9642,9642,Shoreline/Middlefield #1 (EB),Shoreline Middle-field Number One Eastbound,Eastbound,37.4066759808328,-122.07867325542,,,0,,,1,,
 9641,9641,Senior/Teen Center (NB),Senior Teen Center Northbound,Northbound,37.3982855240223,-122.09309918345,,,0,,,1,,
 9640,9640,Senior/Teen Center (SB),Senior Teen Center Southbound,Southbound,37.3987900534928,-122.09297320734,,,0,,,1,,
@@ -56,4 +56,4 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 9603,9603,California/Ortega (EB),California Ortega Eastbound,Eastbound,37.4009179271578,-122.103179504299,,,0,,,1,,
 9602,9602,San Antonio Center (Depart),,,37.4011554263101,-122.108236955855,,,0,,,1,,
 9601,9601,San Antonio Center (Arrive),,,37.4012720433356,-122.10808421542,,,0,,,1,,
-9658,9658,Castro/High School Way,Castro Hi Skool Way,Southbound,37.3870533563023,-122.083289996677,,,0,,,1,,
+866011,866011,Pear @ Inigo,Pear at inaye-go,Weekend service only,37.4154095008247,-122.075888713498,,,0,,,1,,
